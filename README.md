@@ -1,4 +1,19 @@
 <h1 align="center">Hi 👋, I'm Aman</h1>
+
+<!-- ===== CAPSULE HEADER ===== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=header&text=SYSTEM%20ONLINE&fontSize=30&fontColor=ffffff&animation=fadeIn"/>
+
+<!-- ===== TYPING SVG ===== -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=900&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi%2C+I%27m+Aman;Full-Stack+%2B+AI+Developer;Building+Automation+%26+Gaming+Tech;Turning+Ideas+Into+Systems" />
+</p>
+
+<!-- ===== PIXEL / GIF AVATAR ===== -->
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="120" alt="pixel coder"/>
+</p>
+
+
 <h3 align="center">Full-Stack Developer • AI/ML Enthusiast • Cloud & Gaming Tech Explorer</h3>
 
 <p align="center">

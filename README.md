@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Aman</h1>
 
 <!-- ===== CAPSULE HEADER ===== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=header&text=SYSTEM%20ONLINE&fontSize=30&fontColor=ffffff&animation=fadeIn"/>

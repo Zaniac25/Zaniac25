@@ -27,10 +27,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" width="600"/>
-</p>
-
 ---
 
 ## 🧠 About Me
@@ -79,6 +75,10 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
 ---
+
+<p align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" width="600"/>
+</p>
 
 ## 📌 Featured Projects
 🔹 **Gesture & Voice Control System** – MediaPipe + OpenCV + PyAutoGUI  

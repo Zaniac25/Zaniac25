@@ -106,6 +106,3 @@
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Zaniac25&icon=5&color=12"/>
-</p>

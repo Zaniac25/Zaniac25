@@ -90,9 +90,9 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zaniac25&show_icons=true&theme=ayu-mirage"/>
+  <img alt="Zaniac25's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Zaniac25&show_icons=true&theme=ayu-mirage"/>
   <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Zaniac25&theme=ayu-mirage"/>
+  <img alt="Zaniac25's GitHub Stats" src="https://nirzak-streak-stats.vercel.app/?user=Zaniac25&theme=ayu-mirage"/>
 </p>
 
 ---

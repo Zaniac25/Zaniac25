@@ -30,11 +30,9 @@
 ---
 
 ## 🧠 About Me
-💻 B.Tech CSE Student (3rd Year)  
-🤖 Building AI-powered & automation-driven systems  
-🎮 Creator of a **gaming website & monetized web games**  
-🖐️ Built **Gesture + Voice Control System (Jarvis-style)**  
-☁️ Cloud | ML | Full-Stack | DevOps Curious  
+* 💻 **B.Tech CSE Student** at ABIT Cuttack specializing in AI/ML & Full-Stack
+* 🤖 **Data Science Intern** at SkillOTech, focusing on EDA and predictive modeling
+* 🚀 **System Builder** experienced in Computer Vision, API integration, and Cloud tech
 
 > _"I don’t just write code — I build systems."_  
 
@@ -76,39 +74,55 @@
 
 ---
 
-<p align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" width="600"/>
-</p>
-
 ## 📌 Featured Projects
-🔹 **Gesture & Voice Control System** – MediaPipe + OpenCV + PyAutoGUI  
-🔹 **Gaming Website** – Monetized Web Games (GameMonetize)  
-🔹 **Library Management System** – Java + SQL  
-🔹 **AI/ML Internship Projects** – NLP, CNN, Clustering, ANN  
+*  **Gesture & Voice Control System** – AI-driven OS automation using **OpenCV** and **MediaPipe** 
+*  **AI Assistant Chatbot** – Context-aware assistant built with **Gemini API** and **Streamlit** 
+*  **Gaming Platform** – Monetized web platform using **React**, **Django**, and **Firebase** 
+*  **Face Recognition** – Image classification system developed using **Python** and **OpenCV** 
 
 ---
 
 ## 📊 GitHub Stats
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Zaniac25&show_icons=true&theme=ayu-mirage" 
+           alt="GitHub Stats" 
+           height="170" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zaniac25&theme=ayu-mirage" 
+           alt="GitHub Streak" 
+           height="170" />
+    </td>
+  </tr>
+</table>
 <p align="center">
-  <img alt="Zaniac25's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Zaniac25&show_icons=true&theme=ayu-mirage"/>
-  <img alt="Zaniac25's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Zaniac25&theme=ayu-mirage" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaniac25&layout=compact&theme=ayu-mirage" height="170" />
 </p>
-
----
-
-## 📈 Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Zaniac25&theme=github-compact)
-
----
-
-## ✨ Dev Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Zaniac25&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
+
+## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zaniac25&bg_color=161b22&color=00F7FF&line=8A2BE2&point=ffffff&area=true&hide_border=true" width="100%" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" width="80%"/>
+</p>
+
+---
+
+## ✨ Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="70%"/>
+</p>
+
 

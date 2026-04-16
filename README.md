@@ -13,7 +13,7 @@
 </p>
 
 
-<h3 align="center">Full-Stack Developer • AI/ML Enthusiast • Cloud & Gaming Tech Explorer</h3>
+<h3 align="center">Software Engineer • AI Automation & Data Science • Full-Stack Developer</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/www.linkedin.com/in/mtarini5612">
@@ -102,7 +102,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Zaniac25&label=Profile%20Views&color=0e75b6&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=Zaniac25&label=Profile%20Views&color=0e75b6&style=flat&base=520"/>
 </p>
 
 ---
